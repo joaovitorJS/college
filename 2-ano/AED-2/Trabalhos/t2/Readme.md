@@ -1,6 +1,6 @@
-Algoritmos e Estrutura de dados 2
-Trabalho 2 - Árvore Binária de Busca
-Aluno: João Vitor de Oliveira
+Algoritmos e Estrutura de dados 2.
+Trabalho 2 - Árvore Binária de Busca.
+Aluno: João Vitor de Oliveira.
 
 Objetivos:
   - Busca, inserção e remoção de chaves inteiras;
