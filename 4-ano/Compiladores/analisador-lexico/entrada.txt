@@ -1,0 +1,11 @@
+inicio 
+inteiro intA, intB; 
+real decimalA; 
+
+leia intA, decimalA; 
+
+intB = intA + (intA - 523.123); 
+
+escreva "esse eh o valor do decimalA" decimalA; 
+
+fim
